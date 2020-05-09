@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: #323233;
+  color: #fefaec;
+  padding: 0 16px;
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.PSE-container {
+  margin: 8rem auto;
+  max-width: 85vw;
+  padding: 0.3rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  color: #0d7377;
+}
